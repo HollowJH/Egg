@@ -9,3 +9,7 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Technologies
 - Python: Conocimiento basico del leguage, usado para projectos personales.
 - Front-End: En proceso de construccion...
+
+## Skills
+- Resolucion de problemas: Como aspirante a desarollador web, la habilidad de no solo resolver sino comprender el problema se vuelve fundamental, por lo que es algo que intento implementar y desarollar dia a dia.
+
