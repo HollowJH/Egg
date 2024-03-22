@@ -13,3 +13,11 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Skills
 - Resolucion de problemas: Como aspirante a desarollador web, la habilidad de no solo resolver sino comprender el problema se vuelve fundamental, por lo que es algo que intento implementar y desarollar dia a dia.
 
+## Hobbies
+- Gaming: Los videojuegos han formado parte de mi vida desde muy pequeño, debido a esto he pasado por muchas generaciones de diferentes consolas y es algo que mantengo a dia de hoy.
+
+- Piano: Aun estoy aprendiendo, pero en mis ratos libres me gusta desarollar mis habilidades y aprender trozos de canciones en el piano.
+
+- Bowling: 5mentarios, podria pasar horas jugando bowling (y fallando cada vez).
+
+- Aprender: Siempre tengo algun hobby temporal (o no) y estoy en aprendizaje constante, puede pasar de ser un idioma en especifico a un tipo de cocina, pero pocas cosas son iguales a la satisfaccion de aprender y lograr cosas nuevas.
